@@ -31,7 +31,7 @@ opencensus-context==0.1.2
 packaging==20.9
 Pillow==9.0.1
 prometheus-client==0.11.0
-protobuf==3.17.3
+protobuf==3.18.3
 psutil==5.8.0
 py-spy==0.3.7
 pyasn1==0.4.8
